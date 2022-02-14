@@ -1,20 +1,2 @@
-# Monitoring Views Workshop
-
-* if you want a easy installation use **pipenv\*** else use **requirements.txt**
-
-**pipenv:** can be installed wih:
-
-```bash
-pip install pipenv
-```
-
-dont forget to check if you have the right python version: 3.8
-
-* Executing with pipenv 
-```bash
-pipenv run python {command}
-```
-Example:
-```bash
-pipenv run python manage.py makemigrations 
-```
+![image](https://user-images.githubusercontent.com/69643772/153801764-9f0f2de1-1cc4-4890-a409-658a132b85b4.png)
+![image](https://user-images.githubusercontent.com/69643772/153801776-2b6e3f7d-df95-4b1a-b9df-1228c58b7af0.png)
